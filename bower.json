@@ -1,0 +1,22 @@
+{
+  "name": "jquery_pagination",
+  "version": "2.2",
+  "homepage": "https://github.com/AmyCS/jquery_pagination",
+  "authors": [
+    "Gabriel Birke <gb@birke-software.de>"
+  ],
+  "description": "A jQuery pagination plugin with bower support.",
+  "main": "/src/jquery.pagination.js",
+  "keywords": [
+    "jquery",
+    "pagination"
+  ],
+  "license": "GPL v2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
